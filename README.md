@@ -17,3 +17,5 @@ Which party has voted which way in the last elctoral cycle? Citizens can swipe t
 				- this could be a button that's continuously there 
 
 We will adapt the app for Freiburg. 
+
+Currently you can see a first implementation in Swedish here: http://sourisr.kapsi.fi/boras/
